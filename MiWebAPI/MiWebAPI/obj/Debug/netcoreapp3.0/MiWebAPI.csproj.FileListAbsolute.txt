@@ -1,0 +1,7 @@
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.csproj.AssemblyReference.cache
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.AssemblyInfoInputs.cache
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.AssemblyInfo.cs
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.csproj.CoreCompileInputs.cache
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\120_Angular17CRUDconWebAPINET8\MiWebAPI\MiWebAPI\obj\Debug\netcoreapp3.0\MiWebAPI.MvcApplicationPartsAssemblyInfo.cache

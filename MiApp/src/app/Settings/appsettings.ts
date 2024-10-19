@@ -1,3 +1,3 @@
 export const appsettings ={
-    apiUrl:"http://localhost:5299/api/"
+    apiUrl:"http://www.travajo.somee.com/api/"
 }
